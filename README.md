@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @focus7yana  
-- 👀 I’m interested in market analysis 
-- 🌱 I’m currently learning data science
+- 👀 Various business Market analysis worksheets are updating. 
+- 🌱 If you have any advise, feel free to let me know/ 
 -
-- 📫 How to reach me focus7yana@gmail.com 
+- 📫 
 
 <!---
 focus7yana/focus7yana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
